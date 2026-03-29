@@ -1,6 +1,6 @@
-# InteleTour - AI-Powered Tour Booking System
+# TourBookingSystem(TBS) - AI-Powered Tour Booking System
 
-InteleTour is a PHP and MySQL based travel booking platform for browsing tour packages, registering users, creating bookings, completing payments, managing trips, and administering package data. The project also includes a built-in AI-style travel assistant with destination suggestions, package comparisons, budget guidance, and trip-planning features.
+TourBookingSystem(TBS) is a PHP and MySQL based travel booking platform for browsing tour packages, registering users, creating bookings, completing payments, managing trips, and administering package data. The project also includes a built-in AI-style travel assistant with destination suggestions, package comparisons, budget guidance, and trip-planning features.
 
 ## GitHub Description
 
